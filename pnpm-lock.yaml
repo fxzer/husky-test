@@ -18,9 +18,6 @@ devDependencies:
   commitizen:
     specifier: ^4.3.0
     version: 4.3.0
-  cz-conventional-changelog:
-    specifier: ^3.3.0
-    version: 3.3.0
   husky:
     specifier: ^8.0.0
     version: 8.0.3
